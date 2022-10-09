@@ -1,0 +1,31 @@
+body {
+
+    background-color: #343a40;
+    margin: 10px 250px 20px;
+
+}
+.botoes {
+    
+    background: #069cc2;
+    border-radius: 6px; 
+    padding: 15px;cursor :pointer;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    width: 250px;
+    font-size:smaller;
+      
+}
+
+.texto {
+    
+    text-align: center;
+    align-items: flex;
+    color: white;
+    font-family: 'Open Sans', Arial, sans-serif;
+    
+ 
+
+}
+
+
